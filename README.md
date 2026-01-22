@@ -292,23 +292,7 @@ Feel free to:
 - [ ] Add real-time leaderboard tracking
 - [ ] Document lessons learned
 
-## 📞 Connect & Collaborate
 
-**Kaggle Profile**: [@arib06](https://www.kaggle.com/arib06)
-**GitHub**: [@arib-06](https://github.com/arib-06)
-**LinkedIn**: [Mohammad Aribul Haq](https://linkedin.com/in/aribul-haq)
-
-## 📜 License
-
-MIT License - Feel free to use this repository for learning and reference.
-
----
-
-<div align="center">
-
-**Last Updated**: December 2025
-
-**Status**: ✅ Actively Learning & Competing
 
 Made with ❤️ for the Kaggle Community
 
