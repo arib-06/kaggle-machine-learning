@@ -294,8 +294,3 @@ Feel free to:
 
 
 
-Made with ❤️ for the Kaggle Community
-
-[⬆ Back to Top](#kaggle-machine-learning-competitions)
-
-</div>
