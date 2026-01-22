@@ -1,4 +1,4 @@
-# 🏆 Kaggle Machine Learning Competitions
+# 🏆 Kaggle Machine Learning 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/arib06)
@@ -6,18 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-arib--06-black?style=flat-square&logo=github)](https://github.com/arib-06)
 
-A comprehensive collection of my machine learning competition solutions and practice projects from Kaggle. This repository showcases my journey in competitive machine learning, featuring various approaches to dataset analysis, model development, and performance optimization.
+A comprehensive collection of my machine learning competition solutions and practice project from Kaggle. This repository showcases competitive machine learning, featuring various approaches to dataset analysis, model development, and performance optimization.
 
-## 📚 Overview
-
-This repository contains solutions and explorations for multiple Kaggle competitions, demonstrating:
-- Advanced data preprocessing and feature engineering techniques
-- Machine learning model selection and hyperparameter tuning
-- Ensemble methods and model stacking
-- Cross-validation strategies and performance evaluation
-- Professional jupyter notebooks with detailed explanations
-
-## 🎯 Current Competitions
 
 ### 1. **Spaceship Titanic** 🚀
 **Status**: In Progress | **Type**: Binary Classification
@@ -92,24 +82,7 @@ A space-themed twist on the classic Titanic dataset. The task is to predict whet
 | **Notebooks** | Jupyter, Google Colab |
 | **Statistical Analysis** | SciPy, Statsmodels |
 
-## 📂 Repository Structure
 
-```
-kaggle-machine-learning/
-├── spaceship-titanic/              # Spaceship Titanic competition
-│   ├── 1stcomp.ipynb              # Main analysis notebook
-│   ├── data/                       # Raw and processed data
-│   ├── models/                     # Trained models
-│   └── submissions/                # Kaggle submissions
-├── [future-competition]/           # More competitions coming
-├── utils/                          # Utility functions
-│   ├── preprocessing.py            # Data preprocessing helpers
-│   ├── validation.py               # Cross-validation utilities
-│   └── metrics.py                  # Custom metrics
-├── docs/                           # Documentation
-├── README.md                       # This file
-└── requirements.txt                # Python dependencies
-```
 
 ## 🚀 Getting Started
 
@@ -273,14 +246,7 @@ for model in models:
 6. **Domain Knowledge**: Incorporate business insights
 7. **Iterate Quickly**: Test hypotheses and refine approaches
 
-## 🤝 Contributing
 
-Feel free to:
-- Fork this repository
-- Improve existing solutions
-- Add new competition solutions
-- Fix bugs or add features
-- Submit pull requests
 
 ## 📝 Future Plans
 
